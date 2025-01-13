@@ -1,0 +1,15 @@
+<script>
+import Login from './components/Login.vue';
+export default {
+  components: { Login },
+  data() {
+    
+  },
+
+  methods: {
+
+  }
+
+}
+</script>
+
